@@ -44,3 +44,5 @@ ShootGame, iki seviyeden oluşan bir aksiyon oyunudur. Oyuncu, düşmanlardan ka
 
 Keyifli oyunlar!
 # ShootGame
+
+Oyunu izle -> https://drive.google.com/file/d/1kSn0vSsa_y5PXeo1cUpQ8d_4ZUc0NrI3/view?usp=drive_link
