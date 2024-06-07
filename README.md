@@ -15,14 +15,12 @@ ShootGame, iki seviyeden oluşan bir aksiyon oyunudur. Oyuncu, düşmanlardan ka
 - **Hedef:** 10 düşmanı vurmak.
 - **Kontroller:**
   - Sağ ve sol ok tuşları veya `D` ve `A` tuşları ile dönebilirsiniz.
-  - İleri hareket için yukarı ok tuşu veya `W` tuşunu kullanın.
 - Eğer düşmana çarparsanız veya ekranın kenarlarına temas ederseniz, oyun biter ve bir matematik sorusu çözmeniz gerekir. Doğru cevabı vererek oyuna kaldığınız yerden devam edebilirsiniz.
 
 ### Seviye 2:
 - **Hedef:** 20 düşmanı vurmak.
 - **Kontroller:** Seviye 1 ile aynıdır.
 - Eğer düşmana çarparsanız veya ekranın kenarlarına temas ederseniz, oyun biter ve bir hafıza testi yapmanız gerekir. Doğru cevabı vererek oyuna kaldığınız yerden devam edebilirsiniz.
-- Seviye sonunda, matematik sorularını çözmek için harcadığınız toplam süre görüntülenecektir.
 
 ## Sesler
 - **Arka plan müziği:** Devamlı çalar.
@@ -32,8 +30,8 @@ ShootGame, iki seviyeden oluşan bir aksiyon oyunudur. Oyuncu, düşmanlardan ka
 - **Çarpışma sesi:** Düşmanlara ateş ettiğinizde çalar.
 
 ## Oyunu Kazanma ve Kaybetme
-- Her iki seviyeyi de başarıyla tamamladığınızda oyun sonlanır ve toplamda matematik soruları için harcadığınız süre size gösterilir.
-- Bir seviyede yeterli puanı topladıktan sonra bir sonraki seviyeye geçersiniz. Seviye 2'de yeterli puanı topladığınızda oyun biter ve başarı mesajı gösterilir.
+- Her iki seviyeyi de başarıyla tamamladığınızda oyun sonlanır .
+- Bir seviyede yeterli puanı topladıktan sonra bir sonraki seviyeye geçersiniz. Seviye 2'de yeterli puanı topladığınızda oyun biter .
 
 ## Geliştirici Notları
 - Bu proje, Unity Editor'de geliştirilmiştir.
