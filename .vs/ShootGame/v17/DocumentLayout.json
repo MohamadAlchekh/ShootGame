@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ShootGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|C:\\ShootGame\\assets\\enemysc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|solutionrelative:assets\\enemysc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|c:\\shootgame\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|C:\\ShootGame\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|C:\\ShootGame\\assets\\spawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|solutionrelative:assets\\spawnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|C:\\ShootGame\\assets\\bulletshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|C:\\ShootGame\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F894E2-5161-0E56-3765-9C8D64F026F1}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\ShootGame\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\ShootGame\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwA8BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:50:46.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\ShootGame\\Assets\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
+              "ToolTip": "C:\\ShootGame\\Assets\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\AudioManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:49:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnSystem.cs",
+              "DocumentMoniker": "C:\\ShootGame\\Assets\\SpawnSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\SpawnSystem.cs",
+              "ToolTip": "C:\\ShootGame\\Assets\\SpawnSystem.cs",
+              "RelativeToolTip": "Assets\\SpawnSystem.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAD4v04AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:32:18.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySC.cs",
+              "DocumentMoniker": "C:\\ShootGame\\Assets\\EnemySC.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemySC.cs",
+              "ToolTip": "C:\\ShootGame\\Assets\\EnemySC.cs",
+              "RelativeToolTip": "Assets\\EnemySC.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:05:09.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\ShootGame\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "C:\\ShootGame\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:49:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletShooter.cs",
+              "DocumentMoniker": "C:\\ShootGame\\Assets\\BulletShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\BulletShooter.cs",
+              "ToolTip": "C:\\ShootGame\\Assets\\BulletShooter.cs",
+              "RelativeToolTip": "Assets\\BulletShooter.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:52:32.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
