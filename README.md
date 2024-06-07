@@ -1,5 +1,5 @@
 # ShootGame
-![image](https://github.com/MohamadAlchekh/ShootGame/assets/143508351/a394d816-6284-4510-823e-338fd5c35201)
+![Game image](images/Screenshot%202024-05-27%20123838.png)
 
 ## Genel Bakış
 ShootGame, iki seviyeden oluşan bir aksiyon oyunudur. Oyuncu, düşmanlardan kaçınarak ve onları vurarak puan toplar. Oyun, çeşitli zorluklar ve matematik problemleri çözerek veya hafıza testleri yaparak ilerlemeyi sağlar.
